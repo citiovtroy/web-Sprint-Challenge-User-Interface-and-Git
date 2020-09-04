@@ -174,8 +174,39 @@ nav a{
 .subtext-container{
     border-bottom:1px dashed black; 
     margin-bottom:30px;
+
 }
 
 .container-about-page{
     padding:25px;
 }
+
+.learn-strategy{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width:20%;
+    height:4vh;
+    border:2px solid black;
+    border-radius:10px;
+    
+   
+}
+
+.learn-strategy2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width:20%;
+    height:4vh;
+    border:2px solid black;
+    border-radius:10px;
+    margin:-40px 0 20px 370px;
+    
+   
+}
+.learn{
+    border-bottom:1px dashed black;
+    margin:0 0 20px 0;
+}
+
