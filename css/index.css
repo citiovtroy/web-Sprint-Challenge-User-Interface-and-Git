@@ -65,6 +65,9 @@ h1, h2, h3, h4, h5 {
 p {
     line-height: 1.4;
 }
+h2{
+    font-weight:bold;
+}
 
 .container {
     width: 800px;
@@ -84,6 +87,7 @@ p {
     width: 48%;
     padding: 0 1%;
     padding-bottom: 20px;  
+    
 }
 
 .middle-content {
