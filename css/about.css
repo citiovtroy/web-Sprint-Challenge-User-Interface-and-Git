@@ -141,7 +141,7 @@ nav a{
 .strategy-img{
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: space-between;
     flex-direction: row;
 }
 
@@ -212,4 +212,10 @@ nav a{
 
 .strategy-subtext3{
     margin:0 0 30px 0;
+}
+
+.places-img{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
